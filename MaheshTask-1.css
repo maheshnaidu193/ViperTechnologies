@@ -1,0 +1,112 @@
+body{
+    background-image: url(Background.jpg);
+    background-repeat: repeat;
+    background-size:contain;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: transparent;
+    background: linear-gradient(to right,#30CFD0 10%, #330867 100% );
+    background-clip: text;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    color: palevioletred;
+    font-size: 40px;
+    color: white;
+}
+
+#MeetOurTeam{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#LeaderShipandManagementTeam{
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin-right: 550px;
+    margin-left: 550px;
+    border-radius: 10px;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#Founder{
+    text-align: center;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#Containera{
+    display: flex;
+    justify-content: center;
+}
+
+.Img{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    padding-left: 40px;
+}
+h5{
+    padding-left: 20px;
+}
+
+#DevelopmentTeam{
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-right: 550px;
+    margin-left: 550px;
+    border-radius: 10px;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#Containerb{
+    display: flex;
+    justify-content: center;
+}
+
+#Containerc{
+    display: flex;
+    justify-content: center;
+}
+
+#Containerd{
+    display: flex;
+    justify-content: center;
+}
+
+#Containere{
+    display: flex;
+    justify-content: center;
+}
+
+#SalesandMarketingTeam{
+    text-align: center;
+    background-color:white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin-right: 550px;
+    margin-left: 550px;
+    border-radius: 10px;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
